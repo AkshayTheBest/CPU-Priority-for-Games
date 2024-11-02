@@ -17,7 +17,11 @@ It is a setting you can change in the Task Manager that changes the CPU of the P
  There are 6 types of modes but only 3 are vaiable for gaming, which are :
 **High**, **Above Normal** and **Normal** 
 
-with Normal being the default.
+with Normal being the default. In the reg files, they are
+
+Normal = Default
+Medium = Above Normal
+High = High
 
 
  *(Irrelevent are : *Real-Time*, *Below Normal* and *Low*)*
