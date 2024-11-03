@@ -15,12 +15,14 @@ It is a setting you can change in the Task Manager that changes the CPU of the P
 
 
  There are 6 types of modes but only 3 are vaiable for gaming, which are :
-**High**, **Above Normal** and **Normal** 
 
-with Normal being the default. In the reg files, they are
+
+**High**, **Above Normal** and **Normal**  with Normal being the default. In the reg files, they are
 
 Normal = Default
+
 Medium = Above Normal
+
 High = High
 
 
@@ -80,7 +82,7 @@ Well have no worries. You can contact me in Discord and say the following :
 **My Discord Username** : AkshayTheBestYT #2005 or akshaythebestyt
 
 
-# What **I** was going to use it for
+# What I was going to use it for
 
 I was going to use it for my extremely stripped Windows Built named Essence OS. These files could be pre-installed into the OS and will always perform better as most games are already getting supplied with the highest amount of resources from the CPU and RAM. To get more info, go here : http://essenceos.unaux.com/
 
@@ -89,7 +91,7 @@ I was going to use it for my extremely stripped Windows Built named Essence OS. 
 
 # Support
 
-If anyone wants to take my files as a port of your source for anything like sharing it to others or in another youtube channel, fine by me. Just give me a small credit with my name or this github repositary or my youtube channel. Its the least you could do for me. 😄
+You can star this repositary for appreciation and if anyone wants to take my files as a port of your source for anything like sharing it to others or in another youtube channel, fine by me. Just give me a small credit with my name or this github repositary or my youtube channel. Its the least you could do for me. 😄
 
 
 # Thank you
